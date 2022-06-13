@@ -10,7 +10,7 @@ The company provided 6 excel workbooks that included to follow tables and associ
 6.) A job titles table with employee number, title, from date and to date.
 
 Here is the overview of the Database design that was created through quickdatabasediagrams.com
-![ERD_PH_Employees.PNG]()
+![ERD_PH_Employees.PNG](https://github.com/Tara-Lightner/Pewlett-Hackard-Analysis/blob/main/Images/ERD_PH_Employees.PNG)
 ## Results:
     Deliverable 1: The Number of Retiring Employees by Title
 
@@ -41,6 +41,10 @@ There is a total of 1592 employess elibible for the mentorship program.
 
 Provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
+Perhaps a sub break down by departments by job types 
+
+Perhaps look at the difference in from date and to date to know experience and...
+look at associated salary
 
 
 ## Files

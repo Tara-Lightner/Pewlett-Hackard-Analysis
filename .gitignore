@@ -1,3 +1,16 @@
+#File Names
+## In Data Folder
+departments.csv
+dept_emp.csv
+dept_manager.csv
+emp_count.csv
+emp_info.csv
+employees.csv
+mentorship_eligibilty.csv
+retirement_info.csv
+salaries.csv
+titles.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
